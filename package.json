@@ -1,0 +1,13 @@
+{
+  "name": "cinestream-moviebox-pro",
+  "version": "2.0.0",
+  "description": "Cinema streaming web application powered by MovieBox Pure API and ArtPlayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["moviebox", "artplayer", "streaming", "movies", "tv-series", "anime"],
+  "author": "",
+  "license": "MIT"
+}
